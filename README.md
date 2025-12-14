@@ -43,7 +43,7 @@ If you run this on a real system, that is **entirely on you**.
 
 - Windows OS
 - Administrator privileges
-- A functioning brain (recommended)
+- **A functioning brain (recommended)**
 
 ## Disclaimer
 
